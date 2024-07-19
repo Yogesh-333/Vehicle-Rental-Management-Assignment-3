@@ -72,4 +72,10 @@ public class RentalAgency
             }
         }
     }
+
+    // Property to access the fleet for removal or renting
+    public List<Vehicle> Fleet
+    {
+        get { return fleet; }
+    }
 }
