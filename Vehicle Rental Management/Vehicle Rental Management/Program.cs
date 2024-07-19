@@ -1,41 +1,29 @@
-﻿using System;
-
-public class Vehicle
+﻿public class Program
 {
-    // Properties
-    private string model;
-    private string manufacturer;
-    private int year;
-    private double rentalPrice;
-
-    // Get and Set methods for properties
-    public string Model
+    public static void Main()
     {
-        get { return model; }
-        set { model = value; }
-    }
+        RentalAgency rentalAgency = new RentalAgency();
 
-    public string Manufacturer
-    {
-        get { return manufacturer; }
-        set { manufacturer = value; }
-    }
+        // Creating vehicles
+        Car car = new Car { Model = "Model S", Manufacturer = "Tesla", Year = 2020, RentalPrice = 100.0, Seats = 5, EngineType = "Electric", Transmission = "Automatic", Convertible = false };
+        Truck truck = new Truck { Model = "F-150", Manufacturer = "Ford", Year = 2018, RentalPrice = 80.0, Capacity = 2000, TruckType = "Pickup", FourWheelDrive = true };
+        Motorcycle motorcycle = new Motorcycle { Model = "Ninja", Manufacturer = "Kawasaki", Year = 2019, RentalPrice = 50.0, EngineCapacity = 600, FuelType = "Petrol", HasFairing = true };
 
-    public int Year
-    {
-        get { return year; }
-        set { year = value; }
-    }
+        // Adding vehicles to the fleet
+        rentalAgency.AddVehicle(car);
+        rentalAgency.AddVehicle(truck);
+        rentalAgency.AddVehicle(motorcycle);
 
-    public double RentalPrice
-    {
-        get { return rentalPrice; }
-        set { rentalPrice = value; }
-    }
+        // Displaying fleet
+        Console.WriteLine("Fleet:");
+        rentalAgency.DisplayFleet();
 
-    // Method to display vehicle details
-    public virtual void DisplayDetails()
-    {
-        Console.WriteLine($"Model: {Model}, Manufacturer: {Manufacturer}, Year: {Year}, Rental Price: ${RentalPrice}");
+        // Renting a vehicle
+        rentalAgency.RentVehicle(car);
+        Console.WriteLine("Fleet after renting a car:");
+        rentalAgency.DisplayFleet();
+
+        // Displaying total revenue
+        Console.WriteLine($"Total Revenue: ${rentalAgency.TotalRevenue}");
     }
 }

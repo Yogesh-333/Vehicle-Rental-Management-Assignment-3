@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|d:\\conestoga\\software programming - brasil\\vehicle-rental-management-assignment-3\\vehicle rental management\\vehicle rental management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|solutionrelative:vehicle rental management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|d:\\conestoga\\software programming - brasil\\vehicle-rental-management-assignment-3\\vehicle rental management\\vehicle rental management\\rentalagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|solutionrelative:vehicle rental management\\rentalagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalAgency.cs",
+              "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Vehicle-Rental-Management-Assignment-3\\Vehicle Rental Management\\Vehicle Rental Management\\RentalAgency.cs",
+              "RelativeDocumentMoniker": "Vehicle Rental Management\\RentalAgency.cs",
+              "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Vehicle-Rental-Management-Assignment-3\\Vehicle Rental Management\\Vehicle Rental Management\\RentalAgency.cs",
+              "RelativeToolTip": "Vehicle Rental Management\\RentalAgency.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAkwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:11:52.791Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Vehicle Rental Management\\Program.cs",
               "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Vehicle-Rental-Management-Assignment-3\\Vehicle Rental Management\\Vehicle Rental Management\\Program.cs",
               "RelativeToolTip": "Vehicle Rental Management\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA7wB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T01:51:57.661Z",
               "EditorCaption": ""

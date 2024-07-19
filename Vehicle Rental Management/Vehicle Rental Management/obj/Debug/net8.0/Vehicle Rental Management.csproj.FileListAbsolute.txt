@@ -1,0 +1,15 @@
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\bin\Debug\net8.0\Vehicle Rental Management.exe
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\bin\Debug\net8.0\Vehicle Rental Management.deps.json
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\bin\Debug\net8.0\Vehicle Rental Management.runtimeconfig.json
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\bin\Debug\net8.0\Vehicle Rental Management.dll
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\bin\Debug\net8.0\Vehicle Rental Management.pdb
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\obj\Debug\net8.0\Vehicle Rental Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\obj\Debug\net8.0\Vehicle Rental Management.AssemblyInfoInputs.cache
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\obj\Debug\net8.0\Vehicle Rental Management.AssemblyInfo.cs
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\obj\Debug\net8.0\Vehicle Rental Management.csproj.CoreCompileInputs.cache
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\obj\Debug\net8.0\Vehicle Rental Management.sourcelink.json
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\obj\Debug\net8.0\Vehicle Rental Management.dll
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\obj\Debug\net8.0\refint\Vehicle Rental Management.dll
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\obj\Debug\net8.0\Vehicle Rental Management.pdb
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\obj\Debug\net8.0\Vehicle Rental Management.genruntimeconfig.cache
+D:\Conestoga\Software programming - brasil\Vehicle-Rental-Management-Assignment-3\Vehicle Rental Management\Vehicle Rental Management\obj\Debug\net8.0\ref\Vehicle Rental Management.dll

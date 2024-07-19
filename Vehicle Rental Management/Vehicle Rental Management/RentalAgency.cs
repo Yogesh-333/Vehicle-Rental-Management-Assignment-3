@@ -59,9 +59,17 @@ public class RentalAgency
     // Method to display all vehicles in the fleet
     public void DisplayFleet()
     {
-        foreach (Vehicle vehicle in fleet)
+        if (fleet.Count == 0)
         {
-            vehicle.DisplayDetails();
+            Console.WriteLine("No vehicles in the fleet.");
+        }
+        else
+        {
+            foreach (Vehicle vehicle in fleet)
+            {
+                vehicle.DisplayDetails();
+                Console.WriteLine();
+            }
         }
     }
 }
