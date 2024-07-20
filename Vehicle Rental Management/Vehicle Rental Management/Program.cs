@@ -23,8 +23,18 @@ public class Program
             Console.WriteLine("6. Exit");
             Console.Write("Enter your choice: ");
 
-            int choice = Convert.ToInt32(Console.ReadLine());
+            int choice = 0;
 
+            try
+            {
+                 choice = Convert.ToInt32(Console.ReadLine());
+            }catch(Exception e) 
+            {
+                Console.WriteLine("Invalid choice. Please try again.");
+                
+            }
+
+            if (choice > 0) 
             switch (choice)
             {
                 case 1:

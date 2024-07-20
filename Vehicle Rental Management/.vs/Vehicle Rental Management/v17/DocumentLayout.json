@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|solutionrelative:vehicle rental management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|d:\\conestoga\\software programming - brasil\\vehicle-rental-management-assignment-3\\vehicle rental management\\vehicle rental management\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|solutionrelative:vehicle rental management\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|d:\\conestoga\\software programming - brasil\\vehicle-rental-management-assignment-3\\vehicle rental management\\vehicle rental management\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|solutionrelative:vehicle rental management\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|d:\\conestoga\\software programming - brasil\\vehicle-rental-management-assignment-3\\vehicle rental management\\vehicle rental management\\rentalagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|solutionrelative:vehicle rental management\\rentalagency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|d:\\conestoga\\software programming - brasil\\vehicle-rental-management-assignment-3\\vehicle rental management\\vehicle rental management\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|solutionrelative:vehicle rental management\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|d:\\conestoga\\software programming - brasil\\vehicle-rental-management-assignment-3\\vehicle rental management\\vehicle rental management\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|solutionrelative:vehicle rental management\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|d:\\conestoga\\software programming - brasil\\vehicle-rental-management-assignment-3\\vehicle rental management\\vehicle rental management\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{614B60D4-D0C7-4A0F-8579-3F1EC8190928}|Vehicle Rental Management\\Vehicle Rental Management.csproj|solutionrelative:vehicle rental management\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Motorcycle.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Vehicle-Rental-Management-Assignment-3\\Vehicle Rental Management\\Vehicle Rental Management\\Motorcycle.cs",
               "RelativeDocumentMoniker": "Vehicle Rental Management\\Motorcycle.cs",
@@ -46,25 +46,24 @@
               "RelativeToolTip": "Vehicle Rental Management\\Motorcycle.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAowCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T16:21:00.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T16:21:00.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Car.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Vehicle-Rental-Management-Assignment-3\\Vehicle Rental Management\\Vehicle Rental Management\\Car.cs",
               "RelativeDocumentMoniker": "Vehicle Rental Management\\Car.cs",
               "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Vehicle-Rental-Management-Assignment-3\\Vehicle Rental Management\\Vehicle Rental Management\\Car.cs",
               "RelativeToolTip": "Vehicle Rental Management\\Car.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAowCoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T16:20:39.659Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Truck.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Vehicle-Rental-Management-Assignment-3\\Vehicle Rental Management\\Vehicle Rental Management\\Truck.cs",
               "RelativeDocumentMoniker": "Vehicle Rental Management\\Truck.cs",
@@ -72,18 +71,17 @@
               "RelativeToolTip": "Vehicle Rental Management\\Truck.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAowCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-19T16:20:53.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-19T16:20:53.019Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RentalAgency.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Vehicle-Rental-Management-Assignment-3\\Vehicle Rental Management\\Vehicle Rental Management\\RentalAgency.cs",
               "RelativeDocumentMoniker": "Vehicle Rental Management\\RentalAgency.cs",
               "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Vehicle-Rental-Management-Assignment-3\\Vehicle Rental Management\\Vehicle Rental Management\\RentalAgency.cs",
               "RelativeToolTip": "Vehicle Rental Management\\RentalAgency.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAowFEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T16:11:52.791Z",
               "EditorCaption": ""
@@ -96,20 +94,20 @@
               "RelativeDocumentMoniker": "Vehicle Rental Management\\Program.cs",
               "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Vehicle-Rental-Management-Assignment-3\\Vehicle Rental Management\\Vehicle Rental Management\\Program.cs",
               "RelativeToolTip": "Vehicle Rental Management\\Program.cs",
-              "ViewState": "AQIAAJQAAAAAAAAAAAAowLEAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAArwCEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T01:51:57.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "D:\\Conestoga\\Software programming - brasil\\Vehicle-Rental-Management-Assignment-3\\Vehicle Rental Management\\Vehicle Rental Management\\Vehicle.cs",
               "RelativeDocumentMoniker": "Vehicle Rental Management\\Vehicle.cs",
               "ToolTip": "D:\\Conestoga\\Software programming - brasil\\Vehicle-Rental-Management-Assignment-3\\Vehicle Rental Management\\Vehicle Rental Management\\Vehicle.cs",
               "RelativeToolTip": "Vehicle Rental Management\\Vehicle.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAowCkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-19T16:20:27.172Z",
               "EditorCaption": ""
